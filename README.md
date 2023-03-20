@@ -1,7 +1,7 @@
 
 # 🌤️ Weather UI - SwiftUI
 
-This is an application that is made using SwiftUI and showcases the application in light and dark mode with a button to toggle between the two. 
+This is an application that is made using SwiftUI and showcases the Weather UI in light and dark mode with a button to toggle between the two. 
 
 ## Features
 
