@@ -14,8 +14,8 @@ This is an application that is made using SwiftUI and showcases the Weather UI i
 <br>
 <p align="middle">Light Mode and Dark Mode using toggle</p>
 <p float="left" align="middle">
-  <img src="https://user-images.githubusercontent.com/72563740/226434813-3021f399-c655-4246-b4ec-36121f22ffc2.png" width=200>
-  <img src="https://user-images.githubusercontent.com/72563740/226434824-e3fe5730-878d-4b74-988c-60e341b6ec82.png" width=200>
+  <img src="https://user-images.githubusercontent.com/72563740/226446473-6fc7d1ee-2d3e-4c27-8221-6d253f7c6e8b.png" width=200>
+  <img src="https://user-images.githubusercontent.com/72563740/226446504-7318f00f-dd07-4206-afe8-87b6497aaff0.png" width=200>
 </p>
 
 
@@ -26,11 +26,24 @@ This is an application that is made using SwiftUI and showcases the Weather UI i
 </p>
   
 <div align="center">
-  <video src='https://user-images.githubusercontent.com/72563740/226437402-159e5187-dfdb-4206-b5da-f95f6828bf93.mp4' width=180/>
+  <video src='https://user-images.githubusercontent.com/72563740/226446676-f2fb7539-a11b-4180-ae64-1807a9e694cf.mp4' width=180/>
 </div>
   
 
   
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
